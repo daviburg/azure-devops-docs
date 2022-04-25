@@ -8,6 +8,8 @@ To change your repo's default branch for merging new pull requests, you need at 
 
 >[!NOTE]
 >This procedure might require you to [Set Git repository permissions](../set-git-repository-permissions.md).
+>
+>This procedure requires to have 'Edit policies' permission on the branch. Go to the project settings to verify branch permissions.
 
 ::: moniker range=">= azure-devops-2020"
 
